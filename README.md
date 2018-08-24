@@ -1,3 +1,3 @@
 # Sectioner
 
-A description of this package.
+Small extension on Collection that groups its elements.
